@@ -1189,7 +1189,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 @media (min-width: 992px) {
   .home-carousel .right {
-    text-align: right;
+    text-align: center;
   }
 }
 .home-carousel h1,
@@ -1202,7 +1202,7 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel h1 {
   font-weight: 700;
   text-transform: uppercase;
-  font-size: 46px;
+  font-size: 36px;
   letter-spacing: 0.08em;
 }
 @media (max-width: 991px) {

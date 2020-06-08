@@ -142,7 +142,7 @@ paginate = 10
     search = true
 
 [params.carousel]
-    enable = false
+    enable = true
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
@@ -162,12 +162,9 @@ paginate = 10
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
-    enable = true
-    icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    enable = false
+    title = "Woodbrook is a beautiful ..."
+    subtitle = "tree lined neighborhood located in the Brandywine Hundred section of northern Delaware developed by the Woodlawn Trustees beginning in 1952.  The Woodbrook Civic Association was established in January 1962 in order to “organize, maintain, and carry on a voluntary, non-profit organization of home owners for the total community betterment”.  This web site is provided as a service to the Woodbrook community."
 
 [params.clients]
     enable = true
