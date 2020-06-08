@@ -26,22 +26,47 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    identifier="blog"
-    name = "Blog"
+    identifier="news"
+    name = "News"
     url  = "/blog/"
     weight = 2
 
 [[menu.main]]
-    identifier = "faq"
-    name = "FAQ"
+weight = 3
+name = "Forms"
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Forms"
+  name = "Architectural Review"
+  URL = "arb"
+
+  [[menu.main]]
+  parent = "Forms"
+  name = "Bylaws"
+  URL = "bylaws"
+
+  [[menu.main]]
+  parent = "Forms"
+  name = "Dues"
+  URL = "dues"
+
+  [[menu.main]]
+  parent = "Forms"
+  name = "Budget"
+  URL = "budget"
+
+[[menu.main]]
+    identifier = "trees"
+    name = "Street Trees"
     url  = "/faq/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url  = "/contact/"
-    weight = 4
+    weight = 5
 
 # Top bar social links menu
 
@@ -103,25 +128,13 @@ paginate = 10
     email = "your@email.com"
     contact_form_ajax = false
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
-
+    about_us = "<p>This web site is provided as a service to the Woodbrook community.</p>"
+    
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
-    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
-      </p>
-      """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -167,7 +180,7 @@ paginate = 10
     subtitle = "tree lined neighborhood located in the Brandywine Hundred section of northern Delaware developed by the Woodlawn Trustees beginning in 1952.  The Woodbrook Civic Association was established in January 1962 in order to “organize, maintain, and carry on a voluntary, non-profit organization of home owners for the total community betterment”.  This web site is provided as a service to the Woodbrook community."
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
@@ -175,6 +188,6 @@ paginate = 10
     subtitle = ""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "From our blog"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
