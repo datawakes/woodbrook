@@ -38,8 +38,13 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Forms"
-  name = "Architectural Review"
-  URL = "arb"
+  name = "Architectural Review Checklist"
+  URL = "../doc/WoodbrookArchitecturalReviewChecklist_20181214.pdf"
+
+  [[menu.main]]
+  parent = "Forms"
+  name = "Architectural Review Form"
+  URL = "../doc/WoodbrookArchitecturalReviewForm_20181214.pdf"
 
   [[menu.main]]
   parent = "Forms"
