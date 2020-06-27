@@ -1,0 +1,19 @@
++++
+title = "Board of Directors"
+description = "Information about street trees"
+keywords = ["board","board members","board of directors"]
++++
+
+| Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Email |
+| :------- | :------- | :------- |
+|President | Mark Wachter | President@WoodbrookDelaware.org |
+|Vice President | Nigel Pond | VicePresident@WoodbrookDelaware.org |
+|Finance Manager | Kathy Kammer | Finance@WoodbrookDelaware.org |
+|Secretary | Caitlin Cahayla | Secretary@WoodbrookDelaware.org |
+|Architectural Review  | Pat Grugan | Architecture@WoodbrookDelaware.org |
+|Infrastructure | Michael Paul | Infrastructure@WoodbrookDelaware.org |
+|Social Coordinator | Susie Mathews | Social@WoodbrookDelaware.org |
+|Street Trees | Scott Cahayla | Trees@WoodbrookDelaware.org |
+|At Large | Andi Degnan | Info@WoodbrookDelaware.org |
+
+<br><br>
