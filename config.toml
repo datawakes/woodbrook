@@ -162,6 +162,11 @@ hasChildren = true
     tags = true
     search = true
 
+[params.recent_posts]
+    enable = false
+    title = "News"
+    # subtitle = ""
+
 [params.carousel]
     enable = true
     # All carousel items are defined in their own files. You can find example items
@@ -187,10 +192,8 @@ hasChildren = true
     title = "Woodbrook is a beautiful ..."
     subtitle = "tree lined neighborhood located in the Brandywine Hundred section of northern Delaware developed by the Woodlawn Trustees beginning in 1952.  The Woodbrook Civic Association was established in January 1962 in order to “organize, maintain, and carry on a voluntary, non-profit organization of home owners for the total community betterment”.  This web site is provided as a service to the Woodbrook community."
 
-[params.clients]
+[params.location]
     enable = true
-    # All clients are defined in their own files. You can find example items
-    # at 'exampleSite/data/clients'.
-    # For more informtion take a look at the README.
-    title = "Our Clients"
+    # Show location on map
+    title = "Our Location"
     subtitle = ""
