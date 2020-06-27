@@ -32,7 +32,25 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-weight = 3
+    identifier = "dues"
+    name = "Pay Dues"
+    url  = "/dues/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "trees"
+    name = "Street Trees"
+    url  = "/streettrees/"
+    weight = 4
+
+[[menu.main]]
+    identifier = "board"
+    name = "Board Members"
+    url  = "/board/"
+    weight = 5
+
+[[menu.main]]
+weight = 6
 name = "Forms"
 hasChildren = true
 
@@ -53,25 +71,8 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Forms"
-  name = "Dues"
-  URL = "dues"
-
-  [[menu.main]]
-  parent = "Forms"
   name = "Budget"
   URL = "budget"
-
-[[menu.main]]
-    identifier = "trees"
-    name = "Street Trees"
-    url  = "/streettrees/"
-    weight = 4
-
-[[menu.main]]
-    identifier = "board"
-    name = "Board Members"
-    url  = "/board/"
-    weight = 5
 
 # Top bar social links menu
 
@@ -163,8 +164,8 @@ hasChildren = true
     search = true
 
 [params.recent_posts]
-    enable = false
-    title = "News"
+    enable = true
+    title = "Community News"
     # subtitle = ""
 
 [params.carousel]
