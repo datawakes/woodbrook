@@ -6,4 +6,4 @@ categories = ["annual dues"]
 banner = "img/banners/annual-dues.png"
 +++
 
-2020 Annual Dues ($200) can be sent to Kathy Kammer at 106 Country Club Drive
+2020 Annual Dues ($200) can be sent to Kathy Kammer at 106 Country Club Drive. Click [here](/dues/) for more information and other payment options.
