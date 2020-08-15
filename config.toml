@@ -21,50 +21,64 @@ paginate = 10
 
 [[menu.main]]
     identifier="news"
-    name = "News"
+    name = "News & Social"
     url  = "/blog/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "board"
+    name = "Board"
+    url  = "/board/"
     weight = 2
 
 [[menu.main]]
     identifier = "dues"
-    name = "Pay Dues"
+    name = "Dues"
     url  = "/dues/"
     weight = 3
 
 [[menu.main]]
-    identifier = "trees"
-    name = "Street Trees"
-    url  = "/streettrees/"
-    weight = 4
-
-[[menu.main]]
-    identifier = "board"
-    name = "Board Members"
-    url  = "/board/"
-    weight = 5
-
-[[menu.main]]
-weight = 6
-name = "Forms"
+weight = 5
+name = "Services"
 hasChildren = true
 
   [[menu.main]]
-  parent = "Forms"
+  parent = "Services"
+  name = "Street Trees"
+  URL = "bylaws"
+
+  [[menu.main]]
+  parent = "Services"
+  name = "Architectural Review"
+  URL = "bylaws"
+
+  [[menu.main]]
+  parent = "Services"
+  name = "Infrastructure Department"
+  URL = "bylaws"
+
+[[menu.main]]
+weight = 6
+name = "Documents"
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Documents"
   name = "Architectural Review Checklist"
   URL = "../doc/WoodbrookArchitecturalReviewChecklist_20181214.pdf"
 
   [[menu.main]]
-  parent = "Forms"
+  parent = "Documents"
   name = "Architectural Review Form"
   URL = "../doc/WoodbrookArchitecturalReviewForm_20181214.pdf"
 
   [[menu.main]]
-  parent = "Forms"
+  parent = "Documents"
   name = "Bylaws"
   URL = "bylaws"
 
   [[menu.main]]
-  parent = "Forms"
+  parent = "Documents"
   name = "Budget"
   URL = "budget"
 
