@@ -20,67 +20,51 @@ paginate = 10
 # Main menu
 
 [[menu.main]]
-    identifier="news"
+weight = 1
+name = "Menu"
+hasChildren = true
+
+  [[menu.main]]
+    parent = "Menu"
     name = "News & Social"
     url  = "/blog/"
-    weight = 1
-
-[[menu.main]]
-    identifier = "board"
-    name = "Board"
-    url  = "/board/"
     weight = 2
 
-[[menu.main]]
-    identifier = "dues"
-    name = "Dues"
-    url  = "/dues/"
+  [[menu.main]]
+    parent = "Menu"
+    name = "Board Members"
+    url  = "/board/"
     weight = 3
 
-[[menu.main]]
-weight = 5
-name = "Services"
-hasChildren = true
+  [[menu.main]]
+    parent = "Menu"
+    name = "Annual Dues"
+    url  = "/dues/"
+    weight = 4
+    
+  [[menu.main]]
+    parent = "Menu"
+    name = "Street Trees"
+    URL = "bylaws"
+    weight = 5
 
   [[menu.main]]
-  parent = "Services"
-  name = "Street Trees"
-  URL = "bylaws"
+    parent = "Menu"
+    name = "Architectural Review"
+    URL = "bylaws"
+    weight = 6
 
   [[menu.main]]
-  parent = "Services"
-  name = "Architectural Review"
-  URL = "bylaws"
+    parent = "Menu"
+    name = "Infrastructure Department"
+    URL = "bylaws"
+    weight = 7
 
   [[menu.main]]
-  parent = "Services"
-  name = "Infrastructure Department"
-  URL = "bylaws"
-
-[[menu.main]]
-weight = 6
-name = "Documents"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Documents"
-  name = "Architectural Review Checklist"
-  URL = "../doc/WoodbrookArchitecturalReviewChecklist_20181214.pdf"
-
-  [[menu.main]]
-  parent = "Documents"
-  name = "Architectural Review Form"
-  URL = "../doc/WoodbrookArchitecturalReviewForm_20181214.pdf"
-
-  [[menu.main]]
-  parent = "Documents"
-  name = "Bylaws"
-  URL = "bylaws"
-
-  [[menu.main]]
-  parent = "Documents"
-  name = "Budget"
-  URL = "budget"
+    parent = "Menu"
+    name = "Documents"
+    URL = "bylaws"
+    weight = 8
 
 # Top bar social links menu
 
