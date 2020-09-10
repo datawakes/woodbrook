@@ -56,7 +56,7 @@ hasChildren = true
 
   [[menu.main]]
     parent = "Menu"
-    name = "Infrastructure Department"
+    name = "Infrastructure"
     URL = "bylaws"
     weight = 7
 
