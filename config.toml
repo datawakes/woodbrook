@@ -45,26 +45,32 @@ hasChildren = true
   [[menu.main]]
     parent = "Menu"
     name = "Street Trees"
-    URL = "bylaws"
+    URL = "/streettrees/"
     weight = 5
 
   [[menu.main]]
     parent = "Menu"
     name = "Architectural Review"
-    URL = "bylaws"
+    URL = "/archreview/"
     weight = 6
 
   [[menu.main]]
     parent = "Menu"
     name = "Infrastructure"
-    URL = "bylaws"
+    URL = "/infrastructure/"
     weight = 7
 
   [[menu.main]]
     parent = "Menu"
-    name = "Documents"
-    URL = "bylaws"
+    name = "Neighborhood Guidelines"
+    URL = "/bylaws/"
     weight = 8
+
+  [[menu.main]]
+    parent = "Menu"
+    name = "Documents"
+    URL = "/docs/"
+    weight = 9
 
 # Top bar social links menu
 
