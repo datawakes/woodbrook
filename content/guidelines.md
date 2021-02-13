@@ -7,7 +7,7 @@ keywords = ["neighborhood","guidelines"]
 From the original Woodbrook Civic Association Handbook: 
 * “Woodbrook is one of the loveliest areas in Brandywine Hundred.  The dedication of each resident is necessary to maintain this concept, and to retain the property values of the community.  Thoughtfulness of one’s neighbors and attention to these generally accepted and minimal standards will make a major contribution to this end.”
 
-The guidelines listed below are not deed restricted; nonetheless, adherence by all residents creates a beautiful and enjoyable setting for us all.
+The guidelines listed below are not deed restricted; nonetheless, for the betterment of our community, adherence by all residents is strongly encouraged.
 
 * Trash and recycling bins should be placed at the curb the evening before pickup day and removed promptly once empty.
 * Dogs should be leashed, curbed, and cleaned up after.  Incessant, excessive barking is not acceptable.
