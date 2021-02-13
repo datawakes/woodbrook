@@ -158,8 +158,8 @@ hasChildren = true
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     categories = true
-    tags = true
-    search = true
+    tags = false
+    search = false
 
 [params.recent_posts]
     enable = true
