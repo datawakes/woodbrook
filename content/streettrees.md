@@ -1,7 +1,7 @@
 +++
 title = "Street Trees"
 description = "Information about street trees"
-keywords = ["FAQ","street trees"]
+keywords = ["faq","trees","street trees"]
 +++
 
 {{< raw_html >}}
@@ -34,3 +34,4 @@ The association relies on independent arborists to assess the health of the stre
 </table>
 {{< /raw_html >}}
 
+</br>&nbsp;</br>
