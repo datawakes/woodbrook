@@ -1,6 +1,6 @@
 +++
 title = "Board of Directors"
-description = "Information about street trees"
+description = "Board of directors list"
 keywords = ["board","board members","board of directors"]
 +++
 
