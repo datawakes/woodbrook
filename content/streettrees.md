@@ -13,7 +13,7 @@ keywords = ["FAQ","street trees"]
       <td style="width: 50%;vertical-align:top;">{{< /raw_html >}} 
 #### Woodbrook Street Tree Policy:
 
-Street Tree – Any tree growing in the open space between the sidewalk and the curb.
+*Street Tree* – Any tree growing in the open space between the sidewalk and the curb.
 The wide, tree lined streets are one of the endearing characteristics of Woodbrook.  We take great pride in our street trees and spend significant time and resources maintaining them.  The oxygen they provide helps keep our air fresh, the shade helps cool our homes, and the aesthetics charm the neighborhood.  A full street tree canopy also elevates our collective property values.  As such, we all share in the communal benefits of a healthy street tree population.
 
 Since the benefits of our street trees is shared equally across the association membership, the Woodbrook board has always assumed the responsibility of maintaining our street trees.  This policy serves to formalize that assumed role.  Simply stated: the association drives the decision making process regarding maintenance, removal, and new planting of street trees and with it assumes 100% of the associated costs.
