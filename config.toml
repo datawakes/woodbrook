@@ -63,7 +63,7 @@ hasChildren = true
   [[menu.main]]
     parent = "Menu"
     name = "Neighborhood Guidelines"
-    URL = "/bylaws/"
+    URL = "/guidelines/"
     weight = 8
 
   [[menu.main]]
