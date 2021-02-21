@@ -14,6 +14,7 @@ keywords = ["faq","trees","street trees"]
 #### Woodbrook Street Tree Policy:
 
 *Street Tree* – Any tree growing in the open space between the sidewalk and the curb.
+
 The wide, tree lined streets are one of the endearing characteristics of Woodbrook.  We take great pride in our street trees and spend significant time and resources maintaining them.  The oxygen they provide helps keep our air fresh, the shade helps cool our homes, and the aesthetics charm the neighborhood.  A full street tree canopy also elevates our collective property values.  As such, we all share in the communal benefits of a healthy street tree population.
 
 Since the benefits of our street trees is shared equally across the association membership, the Woodbrook board has always assumed the responsibility of maintaining our street trees.  This policy serves to formalize that assumed role.  Simply stated: the association drives the decision making process regarding maintenance, removal, and new planting of street trees and with it assumes 100% of the associated costs.
@@ -28,7 +29,11 @@ The association relies on independent arborists to assess the health of the stre
 - **New Plantings** – Brandywine Nurseries will be filling gaps in the canopy Spring 2021. Homeowners will see flags where proposed trees will be planted.  The expectation is that every home in Woodbrook be fronted with one or more trees.
 - **Tree Removal/Maintenance** – Ron’s Tree Service will be removing select dead/diseased trees and “dead wooding” others in the Spring 2021.
 
- {{< raw_html >}}</td>
+#### Click Below for Details on Prior Tree Work :
+
+* [2020 Tree Work](/doc/Woodbrook2020StreetTreeWork.pdf)
+* [2019 Tree Work](/doc/Woodbrook2019StreetTreePlantings.pdf)
+{{< raw_html >}}</td>
     </tr>
   </tbody>
 </table>

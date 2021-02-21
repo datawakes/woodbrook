@@ -1,7 +1,7 @@
 +++
-title = "Board of Directors"
-description = "Board of directors list"
-keywords = ["board","board members","board of directors"]
+title = "Association Board"
+description = "Association board list"
+keywords = ["board","association board members","association board"]
 +++
 
 | Title | Name | Email |
