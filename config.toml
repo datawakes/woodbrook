@@ -32,7 +32,7 @@ hasChildren = true
 
   [[menu.main]]
     parent = "Menu"
-    name = "Association Board"
+    name = "Board Members"
     url  = "/board/"
     weight = 3
 
@@ -62,7 +62,7 @@ hasChildren = true
 
   [[menu.main]]
     parent = "Menu"
-    name = "Community Guidelines"
+    name = "Neighborhood Guidelines"
     URL = "/guidelines/"
     weight = 8
 

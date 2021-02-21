@@ -1,6 +1,6 @@
 +++
-title = "Documents"
-description = "Miscellaneous documents"
+title = "Documentation"
+description = "Miscellaneous documentation"
 keywords = ["documents","documentation","charter","deed","pdf"]
 +++
 
