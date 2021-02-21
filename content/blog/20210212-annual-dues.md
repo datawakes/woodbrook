@@ -6,4 +6,6 @@ categories = ["annual dues"]
 banner = "img/banners/annual-dues_1.png"
 +++
 
-2021 Annual Dues ($200) can be sent to Kathy Kammer at 106 Country Club Drive or click [here](/dues) for online payment option.
+The 2021 annual dues of $200 are due February 28, 2021.  Click CONTINUE READING then use the link below for payment details.
+
+[Annual Dues](/dues)

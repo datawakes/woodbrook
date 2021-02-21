@@ -6,4 +6,6 @@ categories = ["meeting", "slide deck"]
 banner = "img/banners/Annual-Meeting.png"
 +++
 
+Please click CONTINUE READING, then click the PPT hyperlink to view the meeting’s presentation.
+
 [Annual Meeting Presentation](/doc/2020_AnnualMeeting_Presentation_ForWebsite.pdf)

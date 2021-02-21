@@ -1,9 +1,9 @@
 +++
 title = "Steetlights"
-date = "2013-05-04T18:14:31+05:00"
+date = "2020-09-24T18:14:31+05:00"
 tags = ["streetlight", "security", "safety"]
 categories = ["neighborhood", "streetlight"]
 banner = "img/banners/streetlight.jpg"
 +++
 
-If the street lamp on your property is out or if you notice a street lamp out along the golf course or open space, please, report to [Delmarva Power](https://www.delmarva.com/) or call them at (800) 375-7117.  Be prepared to give the street address that is closest to the light.
+The Woodbrook/DelMarva street light project is complete.  If you notice a street light out along your street or along the golf course, please contact DelMarva Power by calling (800) 898-8042 or visiting [DelMarva.com/Outage/](https://www.delmarva.com/outage/).  Be prepared to provide the street address closest to the light.
