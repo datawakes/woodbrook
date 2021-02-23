@@ -8,7 +8,7 @@ Woodbrook is a deed restricted community and as such board approval is necessary
 
 Below are links to the two pertinent association documents regarding Architectural Review and Approval:
 
-* [Woodbrook Architectural Review Form](/doc/WoodbrookArchitecturalReviewForm_20181214.pdf)
 * [Woodbrook Architectural Review Checklist](/doc/WoodbrookArchitecturalReviewChecklist_20181214.pdf)
+* [Woodbrook Architectural Review Form](/doc/WoodbrookArchitecturalReviewForm_20181214.pdf)
 
 </br>&nbsp;</br>
