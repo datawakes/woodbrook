@@ -1,5 +1,5 @@
 +++
-title = "Steetlights"
+title = "Streetlights "
 date = "2020-09-24T18:14:31+05:00"
 tags = ["streetlight", "security", "safety"]
 categories = ["neighborhood", "streetlight"]
