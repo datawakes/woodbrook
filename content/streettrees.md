@@ -23,13 +23,13 @@ The association relies on independent arborists to assess the health of the stre
 {{< raw_html >}}</td>
       <td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
       <td style="vertical-align:top;">{{< /raw_html >}} 
-#### Upcoming Street Tree work:
+#### Upcoming Street Tree Work:
 
 - **Ash Tree Treatment** – occurs every two years, prevents Emerald Ash Borer infestation, slated to happen again in March/April 2021
 - **New Plantings** – Brandywine Nurseries will be filling gaps in the canopy Spring 2021. Homeowners will see flags where proposed trees will be planted.  The expectation is that every home in Woodbrook be fronted with one or more trees.
 - **Tree Removal/Maintenance** – Ron’s Tree Service will be removing select dead/diseased trees and “dead wooding” others in the Spring 2021.
 
-#### Click Below for Details on Prior Tree Work :
+#### Click Below for Details on Prior Tree Work:
 
 * [2020 Tree Work](/doc/Woodbrook2020StreetTreeWork.pdf)
 * [2019 Tree Work](/doc/Woodbrook2019StreetTreePlantings.pdf)
