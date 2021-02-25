@@ -13,8 +13,6 @@ keywords = ["board","association board members","association board"]
 |Architectural Review &nbsp; &nbsp; | Pat Grugan | Architecture@WoodbrookDelaware.org |
 |Infrastructure | Michael Paul | Infrastructure@WoodbrookDelaware.org |
 |Social Coordinator | Susie Mathews &nbsp; &nbsp; | Social@WoodbrookDelaware.org |
-|At Large | Open | |
-|At Large | Open | |
 
 </br>&nbsp;</br>
 
