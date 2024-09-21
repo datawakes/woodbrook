@@ -11,9 +11,9 @@ keywords = ["dues","paypal","annaul dues"]
       <td style="width: 70%;">{{< /raw_html >}} 
 In Woodbrook the annual dues are collected in order to cover the association's annual operating expenses.  These expenses include but are not limited to: road snow removal, street tree maintenance (trimming, removal, plantings), additional NCC police patrols, common area maintenance, etc.  In a typical year, these expenses can exceed $50,000.  Just as our contractors do not voluntarily supply their services, our association dues are not voluntary.  When one neighbor chooses not to pay their dues, another neighbor takes on an additional burden.  The board asks that you do the right thing for your neighbors and the community as a whole and keep your account up to date.  If you are suffering from financial hardship or just have a question about dues or the association finances, feel free to contact our Treasurer at Finance@WoodbrookDelaware.org
 
-For 2021, our annual dues remain at $200 per household and are due by February 28, 2021.  Checks should be made out to Woodbrook Civic Association and sent to Kathy Kammer at 106 Country Club Dr.  
+Woodbrook annual dues are $200 per household.  Checks should be made out to Woodbrook Civic Association and mailed to Vicky Sullivan at 314 Waycross Rd.
 
-A new alternative for 2021 is paying via PayPal.  To cover the PayPal processing fees, we ask that those using the PayPal option please send $205.  You can utilize your existing PayPal account or non-PayPal users can pay with a credit card by clicking the PayPal **Buy Now** button below. {{< raw_html >}}
+An alternative to paying by check is PayPal.  You do NOT need a PayPal account to use this option as PayPal can charge your credit card securely.  To cover PayPal processing fees, we ask that you please pay $207 if using this option.  To utilize the PayPal option, click the **Buy Now** button below. {{< raw_html >}}
 
 {{< raw_html >}}
 <br>
@@ -28,13 +28,7 @@ A new alternative for 2021 is paying via PayPal.  To cover the PayPal processing
 {{< /raw_html >}}</td>
       <td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
       <td style="vertical-align:top;">{{< /raw_html >}} 
-**Past Due Properties:**
 
-* 415 Foulkstone Rd, owes $950
-* 101 Dexter Rd, owes $800
-* 107 Dexter Rd, owes $1150
-* 108 Dexter Rd, owes $1625
-* 111 Dexter Rd, owes $1625 
 {{< raw_html >}}</td>
     </tr>
   </tbody>
